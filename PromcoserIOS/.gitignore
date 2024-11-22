@@ -1,0 +1,9 @@
+# Archivos de configuración de usuario
+*.xcuserstate
+
+# Directorios derivados
+DerivedData/
+build/
+
+# Archivos de configuración de Mac
+.DS_Store
