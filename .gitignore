@@ -1,0 +1,4 @@
+# Archivos y directorios de Xcode
+*.xcuserstate
+*.xcodeproj/project.xcworkspace/xcuserdata/
+*.DS_Store
