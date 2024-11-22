@@ -10,7 +10,7 @@ import Foundation
 struct Cliente: Codable {
     let nombre: String
     let apellido: String
-    let razonSocial: String  // Campo que has mencionado en lugar de token y correo
+    let razonSocial: String
 }
 
 typealias ClienteResponse = [Cliente]
